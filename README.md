@@ -29,7 +29,7 @@ Deze website is gemaakt met de API/Database van Visual Thinking. Om met die data
 Progressive enhancement is een manier van coderen waarmee je er voor kan zorgen dat je website het altijd doet. Je werkt in drie lagen/fases die telkens een betere ervaring voor de gebruiker met zich meebrengen. Bij de eerste laag (content) zorg je ervoor dat alle html en andere content uit bijv. API's goed zichtbaar en bruikbaar is voor elke gebruiker, ookal hebben ze geen javascript aan staan. Vervolgens bij laag twee (presentation) voeg je CSS toe voor feedback voor de gebruiker en om de huisstijl toe te passen. Ten slotte (client-side scripting) voeg je JavaScript (en CSS) toe om de ervaring voor de gebruiker te verbeteren.
 
 ## Installatie
-Start met het forken en clonen van deze repository. Als je vervolgens de console opent (control + ` ) voer je 'npm install' en vervolgens 'npm install express' in om de benodigde bestanden te installeren. 
+Start met het forken en clonen van deze repository. Als je vervolgens de console opent (control + ` ) voer je 'npm install' en vervolgens 'npm install express ejs' in om de benodigde bestanden te installeren. 
 Er word in deze repository geen gebruik gemaakt van een .env-bestand. 
 
 ## Gebruik
